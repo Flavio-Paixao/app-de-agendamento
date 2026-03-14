@@ -62,3 +62,22 @@ Resolução de Conflitos de Template: Organização de hierarquia de pastas para
 
 Depuração de Erros de Caminho: Uso avançado do terminal e comandos de navegação de diretórios para execução de scripts.
 
+
+---
+
+## 🍔 Cardápio Digital com React + Tailwind
+Também foi adicionada uma interface moderna de cardápio digital em React com Tailwind CSS na pasta `cardapio-digital/`.
+
+### Como executar
+```bash
+cd cardapio-digital
+npm install
+npm run dev
+```
+Acesse em: `http://localhost:5173`
+
+### Recursos de UX implementados
+- Navegação rápida por categorias com rolagem suave.
+- Destaques de entrega, pagamento e fidelidade.
+- Layout responsivo com identidade visual inspirada na paleta do iFood.
+- CTA claro de pedido para melhorar conversão.
